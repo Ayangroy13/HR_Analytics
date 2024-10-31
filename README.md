@@ -73,9 +73,15 @@ This project’s data visualization phase is centered on analyzing employee data
 
 3. **Insight Generation**
    - Interpreted patterns from the correlation map and other visuals to derive insights regarding employee overtime, career progression, job satisfaction, and demographic influences.
+
+## Dashboard Overview:
+
 ![WhatsApp Image 2024-10-30 at 18 26 48_5884d10b](https://github.com/user-attachments/assets/8e86f46b-6556-41b5-8aae-ba0e5524d604)
+
 ![WhatsApp Image 2024-10-30 at 18 27 23_3461c76b](https://github.com/user-attachments/assets/ba7ab4f4-ac40-4d29-98f3-768768343c59)
+
 ![WhatsApp Image 2024-10-30 at 18 28 04_a86d02c1](https://github.com/user-attachments/assets/0e990cef-1371-4886-a8d8-064f26d86827)
+
 ![WhatsApp Image 2024-10-30 at 18 29 05_df512707](https://github.com/user-attachments/assets/5a8de174-1bff-4da2-a875-84ad0ed4cfc5)
 
 
